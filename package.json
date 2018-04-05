@@ -1,0 +1,12 @@
+{
+    "name": "testbot",
+    "description": "een testbot",
+    "version": "0.0.0",
+    "main": "run.js",
+    "scripts": {
+      "start": "node run.js"
+    },
+    "dependencies": {
+      "discord.js": "11.3.2"
+    }
+}
